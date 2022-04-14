@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "txOioQdHuSL8AtjzGMSJYaXL9rUkJvjCkaXbOqDMhjo=",
+  "Source": "hello-nodejs1",
+  "BasePath": "_content/hello-nodejs1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
