@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "utCtn2jlIEeL66WQuZE8xJMnFLM0eSJXNApT4ripARtzic0fJapq4vBi1WNtJYDCOUrgg4KgBI8HsCL0pO+wbA==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/untitled folder/hello-nodejs1/hello-nodejs1.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
